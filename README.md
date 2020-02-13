@@ -1,4 +1,4 @@
-# Modeling-of-He-Cluster-Evolution-at-Grain-Boundaries-in-a-Fe
+# Modeling of He Cluster Evolution at Grain Boundaries in a Fe
  
 Physical modeling of the energy at grain boundaries can induce large computing overhead. By utilizing machine learning, these predictive model can be used to simulate the He-cluster evolution at the grain boundaries in a Fe atom with less computing cost. 
 
@@ -21,7 +21,9 @@ Activate the environment
 source activate phy
 ```
 Conda install libraries and dependencies:
+
 XGboost, Pytorch, Plotly, Pandas, JupyterLab
+
 For example:
 ```
 conda install -c conda-forge xgboost
@@ -29,7 +31,7 @@ conda install -c conda-forge xgboost
 
 ## Built With
 
-* [Pytorch](hhttps://pytorch.org/) - The web framework used
+* [Pytorch](hhttps://pytorch.org/)
 * [JuypterLab](https://jupyterlab.readthedocs.io/en/stable/)
 
 
