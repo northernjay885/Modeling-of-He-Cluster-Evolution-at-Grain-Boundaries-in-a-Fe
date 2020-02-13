@@ -31,7 +31,7 @@ conda install -c conda-forge xgboost
 
 ## Built With
 
-* [Pytorch](hhttps://pytorch.org/)
+* [Pytorch](https://pytorch.org/)
 * [JuypterLab](https://jupyterlab.readthedocs.io/en/stable/)
 
 
